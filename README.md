@@ -7,12 +7,12 @@ you to control the usr0 LED using serial commands (ON / OFF).
 The embedded Linux system is generated using **Buildroot** and flashed
 onto an SD card.
 
-<img src="./media/image1.jpeg" style="width:6in;height:1.25972in" />
+<img src="./image1.jpeg" style="width:6in;height:1.25972in" />
 
 A Linux image was generated with **Buildroot** and can be flashed to an
 SD card using the following command:
 
-<img src="./media/image2.jpeg" style="width:6in;height:4.24931in" />
+<img src="./image2.jpeg" style="width:6in;height:4.24931in" />
 
 Replace /dev/sdX with the correct device corresponding to your SD card.
 
@@ -41,4 +41,5 @@ From the PC side (via FTDI serial terminal), send:
 ON → Turn ON the usr0 LED
 
 OFF → Turn OFF the usr0 LED
+
 
