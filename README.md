@@ -41,7 +41,4 @@ From the PC side (via FTDI serial terminal), send:
 ON → Turn ON the usr0 LED
 
 OFF → Turn OFF the usr0 LED
-# BeagleBone-Black-UART-FTDI-LED-Control-
-# BeagleBone-Black-UART-FTDI-LED-Control git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/Mahdi0312/BeagleBone-Black-UART-FTDI-LED-Control.git git push -u origin main
-# BeagleBone-Black-UART-FTDI-LED-Control
-# BeagleBone-Black-UART-FTDI-LED-Control
+
